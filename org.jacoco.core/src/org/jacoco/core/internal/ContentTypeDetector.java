@@ -83,7 +83,7 @@ public class ContentTypeDetector {
 			case Opcodes.V1_7:
 			case Opcodes.V1_8:
 			case Opcodes.V9:
-			case BytecodeVersion.V10:
+			case Opcodes.V10:
 			case Opcodes.V11:
 			case Opcodes.V12:
 				return CLASSFILE;
